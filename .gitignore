@@ -1,0 +1,16 @@
+# Node modules
+node_modules/
+
+# Optional: ignore logs
+logs
+*.log
+npm-debug.log*
+
+# Optional: ignore environment files
+.env
+
+# Optional: ignore OS or editor-specific files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
